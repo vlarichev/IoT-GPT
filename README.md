@@ -1,6 +1,6 @@
 # IoT-GPT: An Autonomous GPT-4 Experiment with IoT Integration
 
-based on Auto GPT
+based on Auto GPT, IoT-GPT can understand NodeRED and interact with your IoT Landscape
 
 ## 🚀 Features
 
